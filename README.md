@@ -13,9 +13,11 @@ An immersive and entertaining VR minigolf game that allows players to experience
 During the development of this game I was in charge of the level design.
 
 Steps to download:
-1) Navigate to the "Minigolf Adventure" folder.
-2) Download either/both the Minigolf Adventure PC or/and Minigolf Adventure VR depending on which you wish to play.
-3) Run the file named "Minigolf Adventure"
+1) Download the ZIP file for this porfolio by clicking on the "Code" option and selecting the "Download ZIP" option.
+2) Navigate to the downloaded ZIP file and extract it.
+3) From the "Portfolio-main" file, go into the "Minigolf Avdenture" file.
+4) Go into either the "Minigolf Adventure PC" or the "Minigolf Adventure VR" file depending on which version you wish to play.
+5) Run the "Minigolf Adventure" file to play.
 
 Order in Chaos:
 
@@ -23,3 +25,6 @@ A captivating VR puzzle game that immerses you in chaotic environments, challeng
 During the development of this game I was in charge of designing and developing the entire first level.
 A criteria for this game was to be playable on the web without the need of any download.
 As per the instructions of the professor each level should require a seperate link. Therefore only the first level is available as it is the only level I worked on.
+
+Steps to play:
+1) Go to https://cheyne17.github.io/OrderInChaosLevel1/
