@@ -7,7 +7,8 @@ The games include:
 1) Minigolf Adventure
 2) Order in Chaos
 
-Minigolf Adventure
+Minigolf Adventure:
+
 An immersive and entertaining VR minigolf game that allows players to experience the fun and challenge of minigolf in a virtual environment.
 During the development of this game I was in charge of the level design.
 
@@ -16,7 +17,8 @@ Steps to download:
 2) Download either/both the Minigolf Adventure PC or/and Minigolf Adventure VR depending on which you wish to play.
 3) Run the file named "Minigolf Adventure"
 
-Order in Chaos
+Order in Chaos:
+
 A captivating VR puzzle game that immerses you in chaotic environments, challenging your problem-solving skills and strategic thinking.
 During the development of this game I was in charge of designing and developing the entire first level.
 A criteria for this game was to be playable on the web without the need of any download.
